@@ -21,4 +21,6 @@ Other skills :
 
 - 🔭 I’m currently working on WEB Devlopement 
 - 🌱 I’m currently learning  Backend Tools
-- - 📫 How to reach me: ... Linkdin: https://www.linkedin.com/in/shantanu-chaudhari-2404b8238
+- - 📫 How to reach me:
+  - Linkdin: https://www.linkedin.com/in/shantanu-chaudhari-2404b8238
+  - Email: shantanuchaudhari9221@gmail.com
