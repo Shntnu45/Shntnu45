@@ -27,5 +27,4 @@ Cloud practitioners
 📫 How to reach me:
 Linkdin: https://www.linkedin.com/in/shantanu-chaudhari-2404b8238
 <br/>
-
 Email: shantanuchaudhari9221@gmail.com
