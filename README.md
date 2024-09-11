@@ -25,6 +25,7 @@ Cloud practitioners
 🌱 I’m currently learning Backend Tools
 <br/>
 📫 How to reach me:
+<br/>
 Linkdin: https://www.linkedin.com/in/shantanu-chaudhari-2404b8238
 <br/>
 Email: shantanuchaudhari9221@gmail.com
