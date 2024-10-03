@@ -14,6 +14,7 @@ Programmer and tech enthusiast looking for new opportunities and discoveries !!!
 📫 How to reach me:
 <br/>
 portfolio:https://shntnu45.github.io/Portfolio/
+<br/>
 Linkdin: https://www.linkedin.com/in/shantanu-chaudhari-2404b8238
 <br/>
 Email: shantanuchaudhari9221@gmail.com
