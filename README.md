@@ -91,5 +91,3 @@
 - 💻 [GitHub](https://github.com/)  
 
 ---
-
-⭐️ From [Shantanu Chaudhari](https://github.com/YOUR_GITHUB_USERNAME) 🚀
