@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shantanu Chaudhari</h1>
-<h3 align="center">🚀 Enthusiastic Software & Web Developer | ReactJS | Java | Computer Engineering Student</h3>
+<h3 align="center">🚀 Enthusiastic Software & Web Developer | ReactJS | Java | OS | DSA | Computer Engineering Student</h3>
 
 ---
 
