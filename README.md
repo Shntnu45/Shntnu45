@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Bachelor of **Computer Engineering (2021-2025)** at **Sandip Foundation, SITRC, Nashik**
+- 🎓 Pursuing **PG-DAC at CDAC Kharghar, Mumbai (Aug 2025 – Feb 2026)**
 - 💻 Hands-on experience in **Frontend Development** & growing skills in **Full-Stack Development**
 - 🔧 Skilled in **Java, ReactJS, Tailwind CSS, JavaScript, SQL**
 - 🌱 Currently exploring **Node.js & Full-Stack Development**
@@ -14,10 +14,15 @@
 ---
 
 ## 📚 Education
+- 🎓 **PG-DAC (Post Graduate Diploma in Advanced Computing)**  
+  *CDAC Kharghar, Mumbai (Aug 2025 – Feb 2026)*  
+
 - 🎓 **B.E. Computer Engineering (CSE)** – 7.79 CGPA  
   *Sandip Institute of Technology and Research Center, Nashik (2021–2025)*  
+
 - 📖 **HSC** – 77.33%  
   *Sardar Vallabhbhai Patel Vidyalaya & Jr. College Ainpur (2020–2021)*  
+
 - 📘 **SSC** – 74%  
   *Sardar Vallabhbhai Patel Vidyalaya & Jr. College Ainpur (2018–2019)*  
 
@@ -86,6 +91,5 @@
 - 💻 [GitHub](https://github.com/)  
 
 ---
-
 
 ⭐️ From [Shantanu Chaudhari](https://github.com/YOUR_GITHUB_USERNAME) 🚀
