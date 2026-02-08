@@ -1,93 +1,125 @@
 <h1 align="center">Hi 👋, I'm Shantanu Chaudhari</h1>
-<h3 align="center">🚀 Enthusiastic Software & Web Developer | ReactJS | Java | OS | DSA | Computer Engineering Student</h3>
+<h3 align="center">🚀 Software & Web Developer | ReactJS | Java | Full-Stack Enthusiast</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Pursuing **PG-DAC at CDAC Kharghar, Mumbai (Aug 2025 – Feb 2026)**
-- 💻 Hands-on experience in **Frontend Development** & growing skills in **Full-Stack Development**
-- 🔧 Skilled in **Java, ReactJS, Tailwind CSS, JavaScript, SQL**
-- 🌱 Currently exploring **Node.js & Full-Stack Development**
-- 💡 Passionate about building **scalable, responsive & user-friendly applications**
-- 🏆 **Frontend Developer (ReactJS) – HackerRank | 2025**
+
+🎓 Pursuing **PG-DAC at CDAC Kharghar, Mumbai (Aug 2025 – Feb 2026)**  
+💻 Frontend-focused developer growing into **Full-Stack Development**  
+🔧 Skilled in **Java, ReactJS, Tailwind CSS, JavaScript, SQL, Spring Boot**  
+🌱 Currently exploring **Node.js & Advanced Backend Development**  
+💡 Passionate about building **scalable & user-friendly applications**  
+🏆 **Frontend Developer (ReactJS) – HackerRank Certified**
 
 ---
 
 ## 📚 Education
-- 🎓 **PG-DAC (Post Graduate Diploma in Advanced Computing)**  
-  *CDAC Kharghar, Mumbai (Aug 2025 – Feb 2026)*  
 
-- 🎓 **B.E. Computer Engineering (CSE)** – 7.79 CGPA  
-  *Sandip Institute of Technology and Research Center, Nashik (2021–2025)*  
+🎓 **PG-DAC (Post Graduate Diploma in Advanced Computing)**  
+CDAC Kharghar, Mumbai (2025–2026)
 
-- 📖 **HSC** – 77.33%  
-  *Sardar Vallabhbhai Patel Vidyalaya & Jr. College Ainpur (2020–2021)*  
+🎓 **B.E. Computer Engineering** – 7.79 CGPA  
+Sandip Institute of Technology and Research Center, Nashik (2021–2025)
 
-- 📘 **SSC** – 74%  
-  *Sardar Vallabhbhai Patel Vidyalaya & Jr. College Ainpur (2018–2019)*  
+📖 **HSC** – 77.33%  
+📘 **SSC** – 74%
+
+---
+
+# 🚀 Projects
+
+## 🐄 Dairy Assist System with Auto Feed Stock Prediction
+**Tech Stack:** React, Spring Boot, .NET, MySQL  
+🔗 Repo: https://github.com/Shntnu45/Dairy-Assist-System-with-Auto-Feed-Stock-Prediction  
+
+✔ Dairy e-commerce + farm management platform  
+✔ Dynamic product variants & pricing  
+✔ Secure online payment integration  
+✔ Auto feed prediction module  
+✔ Reorder alerts for stock management  
+✔ AI chatbot for customer & admin help  
+✔ Admin dashboard for full system control  
+
+---
+
+## 📂 Knowledge Vault – Document Management System
+**Tech Stack:** ReactJS, Spring Boot, MySQL  
+🔗 Repo: https://github.com/Shntnu45/Knowledge-Vault  
+
+✔ Secure document management system  
+✔ JWT authentication & RBAC  
+✔ RESTful APIs with Spring Boot  
+✔ File upload, download, rename & delete  
+✔ Admin panel for monitoring & control  
+✔ Encrypted passwords & activity logs  
+
+---
+
+## 🏥 Hospital Management System
+**Tech Stack:** HTML, CSS, Tailwind CSS, JavaScript, ReactJS  
+
+✔ Role-based access (Admin/Doctor/Patient)  
+✔ Real-time dashboards  
+✔ Secure login & validation  
+✔ Responsive UI design  
 
 ---
 
 ## 💼 Internship Experience
-- **Frontend Web Developer Intern @ Arohi Software (Aug 2024 – Nov 2024)**  
-  🔹 Developed responsive UIs for a **Hospital Management SaaS** app using **ReactJS, Tailwind CSS**  
-  🔹 Built **role-based dashboards** (Admin, Doctor, Patient) with authentication  
-  🔹 Integrated **REST APIs** for dynamic data visualization  
-  🔹 Designed **secure login & validation system**  
 
-- **Web Developer Intern @ NerdTech Software (Dec 2023 – Feb 2024)**  
-  🔹 Built responsive websites & **SPAs** using **ReactJS, Bootstrap, JavaScript**  
-  🔹 Developed reusable React components with state management  
-  🔹 Ensured **cross-browser compatibility**  
-  🔹 Optimized UI/UX with Bootstrap reducing development time ⏳ by **20%**  
+### Frontend Developer Intern — Arohi Software (2024)
+✔ Built responsive UI for Hospital Management SaaS  
+✔ Developed role-based dashboards  
+✔ Integrated REST APIs  
+✔ Implemented secure authentication  
 
----
-
-## 🚀 Projects
-### 🏥 Hospital Management System  
-**Tech Stack:** HTML, CSS, Tailwind CSS, JavaScript, ReactJS, GitHub  
-✔ Role-based access control for Admin, Doctor, Patient  
-✔ Real-time dashboards for patient & doctor data visualization  
-✔ Secure login & registration with validation  
-
-### 🌐 Personal Portfolio Website  
-**Tech Stack:** HTML, CSS, Tailwind CSS, JavaScript, ReactJS, MySQL, GitHub  
-✔ Responsive & SEO optimized portfolio  
-✔ Dynamic project data with MySQL  
-✔ Interactive UI with animations & transitions  
-✔ Deployed on **GitHub Pages/Netlify**  
+### Web Developer Intern — NerdTech Software (2023–24)
+✔ Built SPAs using ReactJS & Bootstrap  
+✔ Created reusable components  
+✔ Improved UI/UX efficiency by 20%  
+✔ Ensured cross-browser compatibility  
 
 ---
 
-## 🛠️ Skills
+# 🛠️ Skills
 
-**Programming:**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+### 💻 Programming
+Java | JavaScript | SQL
 
-**Frontend Development:**  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+### 🎨 Frontend
+HTML | CSS | ReactJS | Tailwind CSS | Bootstrap
 
-**Backend & Database:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+### ⚙️ Backend & Database
+Spring Boot | Node.js | MySQL
 
-**Tools & Version Control:**  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
+### 🧰 Tools
+Git | GitHub | VS Code | Postman
 
-**Soft Skills:** ✨ Communication | Problem Solving | Adaptability | Time Management | Quick Learner  
+### 🤝 Soft Skills
+Communication | Problem Solving | Adaptability | Quick Learner
 
 ---
 
-## 📫 Connect With Me
-- 📧 **Email:** [shantanuchaudhari0707@gmail.com](mailto:shantanuchaudhari0707@gmail.com)  
-- 📱 **Phone:** +91 9322474744  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 💻 [GitHub](https://github.com/)  
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Shntnu45&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shntnu45&theme=radical" />
+</p>
 
 ---
+
+# 📫 Connect With Me
+
+📧 Email: shantanuchaudhari0707@gmail.com  
+📱 Phone: +91 9322474744  
+💼 LinkedIn: https://www.linkedin.com/in/shantanu-chaudhari-2404b8238/  
+💻 GitHub: https://github.com/Shntnu45
+
+---
+
+⭐ *“Always learning, always building.”*
