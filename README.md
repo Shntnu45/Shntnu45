@@ -125,17 +125,6 @@ https://github.com/Shntnu45/Knowledge-Vault
 Problem Solving • Analytical Thinking • Communication  
 Team Collaboration • Adaptability • Quick Learner  
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shntnu45&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shntnu45&theme=radical" />
-</p>
 
 ---
 
